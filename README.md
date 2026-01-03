@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salismazaya&label=Profile%20views&color=0e75b6&style=flat" alt="salismazaya" /> </p>
 
-- 💬 Ask me about **Python, Javascript, Blockchian**
-- 📫 How to reach me **https://mazaya.is-a.dev**
+- 💬 Ask me about **Python, Javascript, Blockchain**
+- 📫 How to reach me **salismazaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
